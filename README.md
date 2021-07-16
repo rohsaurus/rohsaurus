@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohsaurus. I'm a Sophomore in high school right now and I have no clue what I want to do when I grow up.
 - 👀 I’m interested in Astronomy and Astrophysics, Information Security, Finance (both Fintech, and Finance in general), Game Design, Machine Learning (somewhat). I also really enjoy history and alternate history. A few friends and I even have a podcast about alternate history. It's called "Back To the Past The Alternate History Podcast"
-- 🌱 I’m currently learning AP Macroeconomics, and I've started taking a course in Information Security on freecodecamp.org. Let's see if I finish it. Also, I'm learning C++ and Python in school right now.
+- 🌱 Taking a info sec course on freecodecamp.org. Overally though, enjoying summer. 
 - 🎮I love playing video games. I currently play on PC and VR. 
 - 🔭With my love for Astronomy, comes my love for SciFis such as Star Trek. Started watching it around April 2020 and it is an amazing show! If you have not watched it, definitely check it out!
 - 📫 If you're interested in reaching out to me, for the moment, DM me on Twitter or Reddit: @RohanParikh2004 or u/BlockyGamesPlayer
