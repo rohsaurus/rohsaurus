@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @rohsaurus. I'm a Junior in high school now, and I think I want to go into Information Security.
-- 👀 I’m interested in Astronomy and Astrophysics, Information Security, Finance (both Fintech, and Finance in general), Game Design, Machine Learning (somewhat). I also really enjoy history and alternate history. A few friends and I even have a podcast about alternate history. It's called "Back To the Past The Alternate History Podcast"
-- 🌱 I'm looking into the cybersecurity field and it semes very interesting. I can't wait to dive more into it this year. 
-- 🎮I love playing video games. I currently play on PC and VR. 
-- 🔭With my love for Astronomy, comes my love for SciFis such as Star Trek. Started watching it around April 2020 and it is an amazing show! If you have not watched it, definitely check it out!
-- 📫 If you're interested in reaching out to me, for the moment, DM me on Twitter or LinkedIn: @RohanParikh2004 or https://www.linkedin.com/in/rohan-parikh-118527221/
+- 👋 Hi, I’m @rohsaurus. I'm a Senior in high school now, and will be taking classes at CCM.
+- 👀 I’m interested in Finance as a field and how it relates to computer science, Information Security, and Machine Learning. I also really enjoy history and alternate history. A few friends and I even have a podcast about alternate history. It's called "Back To the Past The Alternate History Podcast"
+- 🌱 I'm planning to major in Computer Science and enter the workforce in either the finance industry or defense industry. 
+- 🎮 Currently working on Cerberus, a free application which allow you to easily encrypt and share files without the use of a password!
+- 🔭 I'm a huge Star Trek Fan, and you should be too.
+- 📫 If you're interested in reaching out to me, DM me on Linkedin: https://www.linkedin.com/in/rohan-parikh-118527221/
 
 
 
