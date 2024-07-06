@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohsaurus. I'm a Computer Science student at the University of Maryland - College Park
-- 👀 I’m interested in Finance as a field and how it relates to computer science, Information Security, and Machine Learning. 
+- 👀 I’m interested in Quantitative Finance, and seeing the fields of Math and Computer Science intersect in the financial realm.
 - 🌱 I'm currently studying Computer Science at UMD, exploring the different aspects of it and trying to figure out where I want to go!
 - 🎮 I'm currently crafting something revolutionary—an all-encompassing communication game changer, akin to GamePigeon but accessible across all devices, with exciting updates coming soon!
 - 🔭 I'm a huge Star Trek Fan, and you should be too.
